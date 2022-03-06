@@ -1,0 +1,42 @@
+.one{
+    display: inline-block;
+    background-color: aqua;
+    height: 100px;
+    width: 100px;
+}
+.two{
+    display: inline;
+    background-color: red;
+    height: 100px;
+    width: 100px;
+}
+.three{
+    display: block;
+    background-color: black;
+    height: 100px;
+    width: 100px;
+}
+.four{
+    display: inline-block;
+    background-color: gray;
+    height: 100px;
+    width: 100px;
+}
+.five{
+    display: none;
+    background-color: coral;
+    height: 100px;
+    width: 100px;
+}
+mark{
+    background-color: blue;
+    font-style: oblique;
+    font-size: 30px;
+}
+.image{
+    height: 100px;
+    width: 100px;
+    padding: 10px;
+    box-sizing: border-box;
+    margin: auto;
+}
